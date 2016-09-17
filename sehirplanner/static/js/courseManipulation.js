@@ -66,7 +66,7 @@ helloApp.controller("CompanyCtrl", ["$scope", "$http", 'uiCalendarConfig', funct
             },
             eventOverlap: true,
             minTime: "9:00:00",
-            maxTime: "22:00:00",
+            maxTime: "24:00:00",
 
             timeFormat: {
                 agenda: 'H:mm'
